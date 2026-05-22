@@ -25,8 +25,8 @@ This mobile application aims:
 - Mobile-friendly user interface
 
 ## Development Tools and Environment
-**Programming Language** - Dart + Flutter (Mobile application development)
-**Database** - Supabase (Database storage)
-**Integrated Development Environment (IDE)** - Visual Studio Code & Android Studio  
-**Design Tools** - Figma & Canva  
-**Testing Device** - Android Smartphone  
+- **Programming Language** - Dart + Flutter (Mobile application development)
+- **Database** - Supabase (Database storage)
+- **Integrated Development Environment (IDE)** - Visual Studio Code & Android Studio  
+- **Design Tools** - Figma & Canva  
+- **Testing Device** - Android Smartphone  
