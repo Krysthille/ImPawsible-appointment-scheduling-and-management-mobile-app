@@ -1,0 +1,72 @@
+name: impawsible
+description: "A new Flutter project."
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.2.4
+  supabase_flutter: ^2.3.4
+  # uni_links: ^0.5.1
+  # supabase_flutter: ^1.10.21
+
+
+  cupertino_icons: ^1.0.2
+  google_fonts: ^6.1.0
+  flutter_svg: ^2.0.9
+  provider: ^6.1.1
+  shared_preferences: ^2.5.3
+  flutter_secure_storage: ^9.0.0
+  intl: ^0.19.0
+  cached_network_image: ^3.3.1
+  table_calendar: ^3.0.9
+  logging: ^1.2.0
+  connectivity_plus: ^5.0.0
+  image_picker: ^1.1.2
+  fl_chart: ^0.64.0
+  pdf: ^3.10.7
+  path_provider: ^2.1.2
+  open_file: ^3.3.2
+ 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.13.1
+
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: assets/images/logo.png
+
+
+flutter:
+  uses-material-design: true
+
+
+  assets:
+    - assets/images/
+    - assets/images/logo1.png
+    - assets/images/bath.jpg
+    - assets/images/haircut.jpg
+    - assets/images/earcleaning.jpg
+    - assets/images/nailtrimming.jpg
+    - assets/images/dogfood.jpg
+    - assets/images/petaccessories.jpg
+    - assets/images/petshampoo.jpg
+    - assets/images/gcash_qr.png
+    - assets/images/shop_products/
+    - assets/images/location_map.jpeg
+    - assets/images/facebook.jpeg
