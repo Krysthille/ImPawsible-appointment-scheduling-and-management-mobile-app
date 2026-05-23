@@ -15,6 +15,16 @@ This mobile application aims:
 - Admin In-App Messaging
 - Settings Management
 
+## Screenshots
+### Log In and Register
+![Log In and Register](screenshots/impawsible-login-signup.png)
+
+### User Features
+![User Features](screenshots/impawsible-user.png)
+
+### Admin Features
+![Admin Features](screenshots/impawsible-admin.png)
+
 ## Key Features
 - Real-time appointment scheduling
 - Grooming service selection
